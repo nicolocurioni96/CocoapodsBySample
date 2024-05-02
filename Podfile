@@ -6,6 +6,7 @@ target 'CocoapodsBySample' do
   use_frameworks!
 
   # Pods for CocoapodsBySample
-  pod 'SwiftyJSON'
+  pod 'FirebaseAuth' 
+  pod 'FirebaseFirestore'
 
 end
