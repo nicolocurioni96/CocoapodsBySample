@@ -8,7 +8,10 @@ Simple app, tha uses Cocoapods as dependency manager, and use the Pow dependency
 
 ## Used Dependencies
 
-SwiftyJSON: <link>https://github.com/SwiftyJSON/SwiftyJSON</link>
+## Firebase
+
+Firebase: <link>https://github.com/firebase/quickstart-ios</link>
+
 
 ## Get in Touch
 
